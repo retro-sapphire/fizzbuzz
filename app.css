@@ -1,0 +1,16 @@
+body {
+  margin: 2em;
+}
+
+label {
+  display: block;
+  margin: 0.5em;
+}
+
+form {
+  margin-bottom: 2em;
+}
+
+ul {
+  margin-top: 2em;
+}
